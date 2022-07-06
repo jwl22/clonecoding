@@ -1,6 +1,7 @@
 # Noom
 
 Zoom Clone using NodeJS, WebRTC and Websockets.
---테스트 캠이 없어 일시 중지된 프로젝트입니다.
+
+-Stopped because there is no test cam.
 
 출처: https://nomadcoders.co/noom
